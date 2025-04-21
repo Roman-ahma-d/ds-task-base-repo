@@ -35,12 +35,12 @@ def queue_operations():
     # TODO: Implement queue using list or collections.deque
     print("\n-- Queue Operations --")
     print("TODO: Implement this feature")
-
+    print ("code uptaded")
 def dictionary_operations():
     # TODO: Implement basic dictionary operations like add, delete, search, display
     print("\n-- Dictionary Operations --")
     print("TODO: Implement this feature")
-
+    print("s gfgwtg")
 def main():
     while True:
         display_menu()
